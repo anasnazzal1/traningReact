@@ -1,0 +1,36 @@
+.fourscreen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.fourscreen .childfour {
+    width: 70%;
+}
+.fourscreen h2 {
+    padding: 30px;
+}
+.formfourscreen {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.formfourscreen input , .formfourscreen textarea {
+    min-width: 60%;
+    padding: 40px;
+    border: none;
+   border-bottom: 1px solid gray;
+}
+.btnfourscreen {
+    cursor: pointer;
+    padding: 20px;
+    color: white;
+    border: 2px solid white;
+    background-color: #1ABC9C;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    width: 70px !important;
+}

@@ -1,0 +1,32 @@
+.imgestwoscreen {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+}
+
+.twoscreen{
+    font-size: 2.25rem;
+    text-align: center;
+    
+
+}
+.twoscreen h2{
+    padding: 20px;
+    color: #2C3E50;
+    text-transform: uppercase;
+}
+.photo {
+    width: 25%;
+ 
+}
+.twoscreen .photo img {
+    width: 100%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
