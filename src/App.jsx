@@ -1,7 +1,7 @@
 
 import './App.css'
 import Header from './component/header/Header'
-import Start from './pages/starts/start'
+import Start from './pages/starts/Start'
 import Portfolio from './pages/portfolio/portfolio'
 import About from './pages/about/About'
 import Contact from './pages/contact/Contact'
